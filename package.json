@@ -13,7 +13,7 @@
   },
   "optionalDependencies": {
     "redis": "^2.6.2",
-    "hiredis": "^0.1",
+    "hiredis": "^0.5",
     "statsd-client": "*"
   },
   "devDependencies": {
